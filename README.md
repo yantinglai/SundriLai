@@ -123,6 +123,26 @@ My journey to CS is kind of random. Back in college, I was studying German langu
 </a>
 </p>
 
+#
+
+### 📺 Projects and YouTube videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<a href="https://online.fliphtml5.com/qspfy/pwfg/#p=1">
+  <img src="https://i.imgur.com/sognYMp.png" alt="Schedule Page Migration" width="300" height="300" style="border-radius: 5;">
+</a>
+<a href="https://www.youtube.com/watch?v=kKm055sGHKk&t=3s">
+  <img src="https://i.imgur.com/SLTt4ay.png" alt="How to study when you don’t feel like it" width="230" height="230" style="border-radius: 5;">
+</a>
+<a href="https://www.kickstarter.com/projects/ecoflow/ecoflow-delta-pro">
+  <img src="https://i.imgur.com/R80vsjH.png" alt="Kickstarter Crowdfunding 12.17Million USD " width="230" height="230" style="border-radius: 5;">
+</a>
+<a href="https://jasminchina.wixsite.com/chowchowfruit/shop">
+  <img src="https://i.imgur.com/bOyiNlb.png" alt="Ugly Fruit Project" width="230" height="230" style="border-radius: 5;">
+</a>
+
+#
 
 
 
