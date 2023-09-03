@@ -2,7 +2,18 @@
 
 **`Digital Nomad (Developer/Dancer/Creator)`**
 
+<h3 align="left">Northeastern Unviersity - Student; Ex-intern at Peloton Interactive </h3>
+  
+- 🚀 I'm a software engineer & persuing CS master degree at NEU, expected graudation date **Dec 2024**.
+- 💼 I'm currently looking for **Spring 2024 SDE Internship and 2024 New Grad position**.
+- 💼 I'm currently a **NEU Seattle Student ambassador & Graduate Teaching Assistant**.
+- 🔭 I’m currently working on **Cloud, Distributed system & Web development**.
+- 📚 I’m currently learning **AWS Certificate, Recommendation System**.
+- ⚡ Fun fact **I was a musical actress for the Legally Blonde musical! Movement is my lifestyle!**
+
 My journey to CS is kind of random. Back in college, I was studying German language and I couldn’t find the meaning out of it. One day, I was shopping at a super market and saw a yellow peach being thrown away simply because it had a black spot. “How many fruits were being wasted simply because they were imperfect?” I thought to myself. Later, the Ugly Fruit startup was born, to turn imperfect food into delicious products like Jam and Chips. I then got to learn about building websites, designing apps, starting my first YouTube channels, and now pursing a CS degree at Northeastern Seattle. All the projects I listed here are things that truly interests me and I believe would have a positive impact on someone’s life. One of my YouTube video “[How to study when you don't feel like it?](https://www.youtube.com/channel/UCkK055sGHKk)” has got over 22,000 views. 
+
+#
 
 ### ⚒️  Languages and Tools
 <p align="left">
@@ -48,6 +59,7 @@ My journey to CS is kind of random. Back in college, I was studying German langu
   </a>
 </p>
 
+#
 ### ⚙️  Database and Other Technologies
 <p align="left">
   <!-- Database -->
@@ -123,9 +135,10 @@ My journey to CS is kind of random. Back in college, I was studying German langu
 </a>
 </p>
 
-#
 
+#
 ### 📺 Projects and YouTube videos
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
@@ -143,6 +156,17 @@ My journey to CS is kind of random. Back in college, I was studying German langu
 </a>
 
 #
+### 📊 Stats
 
+![Sundri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yantinglai&show_icons=true&theme=gruvbox)
 
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>👩🏻‍💻 Sundri's Coding Journey</h3></summary>
+   My journey to CS is kind of random. Back in college, I was studying German language and I couldn’t find the meaning out of it. One day, I was shopping at a super market and saw a yellow peach being thrown away simply because it had a black spot. “How many fruits were being wasted simply because they were imperfect?” I thought to myself. Later, the Ugly Fruit startup was born, to turn imperfect food into delicious products like Jam and Chips. I then got to learn about building websites, designing apps, starting my first YouTube channels, and now pursing a CS degree at Northeastern Seattle. All the projects I listed here are things that truly interests me and I believe would have a positive impact on someone’s life. One of my YouTube video “[How to study when you don't feel like it?](https://www.youtube.com/channel/UCkK055sGHKk)” has got over 22,000 views.
+
+<!-- Demo any fun or small projects here: like fish eating dots or some other stuff -->
 
