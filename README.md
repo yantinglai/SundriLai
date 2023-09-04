@@ -11,7 +11,9 @@
 - 📚 I’m currently learning **AWS Certificate, Recommendation System**.
 - ⚡ Fun fact **I was a musical actress for the Legally Blonde musical! Movement is my lifestyle!**
 
-My journey to CS is kind of random. Back in college, I was studying German language and I couldn’t find the meaning out of it. One day, I was shopping at a super market and saw a yellow peach being thrown away simply because it had a black spot. “How many fruits were being wasted simply because they were imperfect?” I thought to myself. Later, the Ugly Fruit startup was born, to turn imperfect food into delicious products like Jam and Chips. I then got to learn about building websites, designing apps, starting my first YouTube channels, and now pursing a CS degree at Northeastern Seattle. All the projects I listed here are things that truly interests me and I believe would have a positive impact on someone’s life. One of my YouTube video “[How to study when you don't feel like it?](https://www.youtube.com/channel/UCkK055sGHKk)” has got over 22,000 views. 
+**`About Me`**
+
+My journey to CS is kind of random. Back in college, I was studying German language and I couldn’t find the meaning out of it. One day, I was shopping at a super market and saw a yellow peach being thrown away simply because it had a black spot. “How many fruits were being wasted simply because they were imperfect?” I thought to myself. Later, the Ugly Fruit startup was born, to turn imperfect food into delicious products like Jam and Chips. I then got to learn about building websites, designing apps, starting my first YouTube channels, and now pursing a CS degree at Northeastern Seattle. All the projects I listed here are things that truly interests me and I believe would have a positive impact on someone’s life. One of my YouTube video “[How to study when you don't feel like it?](https://www.youtube.com/channel/UCkK055sGHKk)” has got over 22,000 views, inspiring people to stop procrastinating and take actions.
 
 #
 
@@ -137,7 +139,7 @@ My journey to CS is kind of random. Back in college, I was studying German langu
 
 
 #
-### 📺 Projects and YouTube videos
+### 📺 Projects 
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -145,28 +147,50 @@ My journey to CS is kind of random. Back in college, I was studying German langu
 <a href="https://online.fliphtml5.com/qspfy/pwfg/#p=1">
   <img src="https://i.imgur.com/sognYMp.png" alt="Schedule Page Migration" width="300" height="300" style="border-radius: 5;">
 </a>
-<a href="https://www.youtube.com/watch?v=kKm055sGHKk&t=3s">
-  <img src="https://i.imgur.com/SLTt4ay.png" alt="How to study when you don’t feel like it" width="230" height="230" style="border-radius: 5;">
-</a>
 <a href="https://www.kickstarter.com/projects/ecoflow/ecoflow-delta-pro">
-  <img src="https://i.imgur.com/R80vsjH.png" alt="Kickstarter Crowdfunding 12.17Million USD " width="230" height="230" style="border-radius: 5;">
+  <img src="https://i.imgur.com/R80vsjH.png" alt="Kickstarter Crowdfunding 12.17Million USD " width="300" height="300" style="border-radius: 5;">
 </a>
 <a href="https://jasminchina.wixsite.com/chowchowfruit/shop">
-  <img src="https://i.imgur.com/bOyiNlb.png" alt="Ugly Fruit Project" width="230" height="230" style="border-radius: 5;">
+  <img src="https://i.imgur.com/bOyiNlb.png" alt="Ugly Fruit Project" width="300" height="300" style="border-radius: 5;">
+</a>
+
+### 📺 YouTube Videos 
+<a href="https://www.youtube.com/watch?v=kKm055sGHKk&t=3s">
+  <img src="https://i.imgur.com/SLTt4ay.png" alt="How to study when you don’t feel like it" width="300" height="300" style="border-radius: 5;">
 </a>
 
 #
 ### 📊 Stats
-
-![Sundri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yantinglai&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yantinglai&count_private=true&show_icons=true" alt="Sundri Lai's GitHub stats" />
+</div>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yantinglai&count_private=true&show_icons=true&theme=radical" alt="Sundri Lai's GitHub stats" />
+  </a>
+</div>
 
 #
 
 <details>
  <summary><h3>👩🏻‍💻 Sundri's Coding Journey</h3></summary>
-   My journey to CS is kind of random. Back in college, I was studying German language and I couldn’t find the meaning out of it. One day, I was shopping at a super market and saw a yellow peach being thrown away simply because it had a black spot. “How many fruits were being wasted simply because they were imperfect?” I thought to myself. Later, the Ugly Fruit startup was born, to turn imperfect food into delicious products like Jam and Chips. I then got to learn about building websites, designing apps, starting my first YouTube channels, and now pursing a CS degree at Northeastern Seattle. All the projects I listed here are things that truly interests me and I believe would have a positive impact on someone’s life. One of my YouTube video “[How to study when you don't feel like it?](https://www.youtube.com/channel/UCkK055sGHKk)” has got over 22,000 views.
+  My journey to CS is kind of random. Back in college, I was studying German language and I couldn’t find the meaning out of it. One day, I was shopping at a super market and saw a yellow peach being thrown away simply because it had a black spot. “How many fruits were being wasted simply because they were imperfect?” I thought to myself. Later, the Ugly Fruit startup was born, to turn imperfect food into delicious products like Jam and Chips. I then got to learn about building websites, designing apps, starting my first YouTube channels, and now pursing a CS degree at Northeastern Seattle. All the projects I listed here are things that truly interests me and I believe would have a positive impact on someone’s life. One of my YouTube video “[How to study when you don't feel like it?](https://www.youtube.com/channel/UCkK055sGHKk)” has got over 22,000 views, inspiring people to stop procrastinating and take actions.
+
+  <br>
+   
+   Where am I right now? I have finished my summer internship at Peloton and developed a micro-service from back to front. I feel like frontend is very straight forward, but backend is really the things that give the whole application the back and bones. I also know machine learning, AI is just a very hot topic right now, so getting some knowledge in that is important. I am trying to teach myself to do the hard things first. And if I ever look back on what I have written, I hope what I do does achieve these following principles:
+    
+   1. Do the things that truly interest you, and do it because it solves a real-life problem. If not, build something fun.
+   2. Do the right thing, don't get pressured by time and visa.
+   3. Do the difficult thing first.
+
+   Let's write down what I hope to achieve in 2024 and look back and see if they actually come true:
+   1. Find 2024 spring / summer internships.
+   2. Look for 2024 May new grad roles.
+   3. Get back to dance practice.
+
+
 
 <!-- Demo any fun or small projects here: like fish eating dots or some other stuff -->
 
