@@ -6,7 +6,7 @@
   
 - 🚀 I'm a software engineer & persuing CS master degree at NEU, expected graudation date **Dec 2024**.
 - 💼 I'm currently looking for **Spring 2024 SDE Internship and 2024 New Grad position**.
-- 💼 I'm currently a **NEU Seattle Student ambassador & Graduate Teaching Assistant**.
+- 💼 I'm currently a **Graduate Teaching Assistant at NEU**.
 - 🔭 I’m currently working on **Cloud, Distributed system & Web development**.
 - 📚 I’m currently learning **AWS Certificate, Recommendation System**.
 - ⚡ Fun fact **I was a musical actress for the Legally Blonde musical! Movement is my lifestyle!**
