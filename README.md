@@ -5,10 +5,10 @@
 <h3 align="left">Northeastern Unviersity - Student; Ex-intern at Amazon Web Services </h3>
   
 - 🚀 I'm a software engineer & persuing CS master degree at NEU, expected graudation date **Dec 2024**.
-- 💼 I'm currently looking for **Spring 2024 SDE Internship and 2024 New Grad position**.
-- 💼 I'm currently a **Graduate Teaching Assistant at NEU**.
-- 🔭 I’m currently working on **Cloud, Distributed system & Web development**.
-- 📚 I’m currently learning **AWS Certificate, Recommendation System**.
+- 💼 I'm currently looking for **2025 Spring New Grad position**.
+- 💼 I'm currently a **Cloud Computing Graduate Teaching Assistant and Career Peer Advisor at NEU**.
+- 🔭 I’m currently working on **Cloud, Distributed system & Computer Visions**.
+- 📚 I’m currently learning **AWS Certificate, deep learning**.
 - ⚡ Fun fact **I was a musical actress for the Legally Blonde musical! Movement is my lifestyle!**
 
 **`About Me`**
