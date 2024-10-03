@@ -2,7 +2,7 @@
 
 **`Digital Nomad (Developer/Dancer/Creator)`**
 
-<h3 align="left">Northeastern Unviersity - Student; Ex-intern at Amazon Web Services </h3>
+<h3 align="left">Northeastern Unviersity - Student; Ex-SWE intern at Amazon Redshift, S2N Health, Peloton </h3>
   
 - 🚀 I'm a software engineer & persuing CS master degree at NEU, expected graudation date **Dec 2024**.
 - 💼 I'm currently looking for **2025 Spring New Grad position**.
